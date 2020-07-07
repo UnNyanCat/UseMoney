@@ -1,0 +1,12 @@
+name: UseMoney
+author: UnNyanCat
+version: 1.0.0
+main: nyancat\usemoney\Main
+description: Use Money ( use EconomyAPI )
+api: 3.14.0
+
+commands:
+  usemoney:
+    description: "Use Money"
+    usage: "/usemoney"
+    aliases: ['umoney']
